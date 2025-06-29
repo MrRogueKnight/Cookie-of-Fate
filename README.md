@@ -52,7 +52,8 @@ Additional UI variation:
 
 Watch the app in action:
 
-[▶️ Watch Demo]([https://github.com/MrRogueKnight/Cookie-of-Fate/blob/main/Running%20cookie_of_fate.mp4](https://github.com/MrRogueKnight/Cookie-of-Fate/raw/refs/heads/rogue/Running%20cookie_of_fate.mp4))
+[▶️ Watch Demo](https://github.com/MrRogueKnight/Cookie-of-Fate/raw/rogue/Running%20cookie_of_fate.mp4)
+
 
 > 💡 *The video is stored directly in the repository and can be downloaded or previewed.*
 
