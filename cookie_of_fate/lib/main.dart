@@ -15,7 +15,7 @@ class CookieOfFateApp extends StatelessWidget {
       title: 'Cookie of Fate',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        fontFamily: 'Georgia',
+        fontFamily: 'Pacifico',
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepOrange),
         useMaterial3: true,
       ),
@@ -105,7 +105,7 @@ class _FortuneScreenState extends State<FortuneScreen>
                   padding: const EdgeInsets.all(16),
                   margin: const EdgeInsets.symmetric(horizontal: 10),
                   decoration: BoxDecoration(
-                    color: Colors.white.withOpacity(0.8),
+                    color: Colors.white.withAlpha((0.8 * 255).round()),
                     borderRadius: BorderRadius.circular(20),
                     boxShadow: const [
                       BoxShadow(
