@@ -36,15 +36,15 @@ Explore how the **Cookie of Fate** app looks and works:
 
 ### 📱 Screenshots
 
-| Welcome Screen               | Fortune Revealed                 |
+| Welcome Screen v1            | Fortune Revealed v2              |
 |-----------------------------|----------------------------------|
-| ![App Preview 1](App_Preview_v1.PNG) | ![App Preview 2](App_Preview_v2.PNG) |
+| ![App Preview 1](App_Preview_v1.PNG) | ![App Preview V2](App_Preview_v2.PNG) |
 
 Additional UI variation:
 
-| Clean Fortune Layout        | With Decorative Style            |
-|----------------------------|----------------------------------|
-| ![App Preview 2 v2](App_Preview2_v2.PNG) | ![App Preview 2 v2](App_Preview2_v2.PNG) |
+| Clean Fortune Layout v2     |
+|----------------------------|
+| ![App Preview 2 v2](App_Preview2_v2.PNG) 
 
 ---
 
@@ -52,7 +52,7 @@ Additional UI variation:
 
 Watch the app in action:
 
-[▶️ Watch Demo](https://github.com/MrRogueKnight/Cookie-of-Fate/blob/main/Running%20cookie_of_fate.mp4)
+[▶️ Watch Demo]([https://github.com/MrRogueKnight/Cookie-of-Fate/blob/main/Running%20cookie_of_fate.mp4](https://github.com/MrRogueKnight/Cookie-of-Fate/raw/refs/heads/rogue/Running%20cookie_of_fate.mp4))
 
 > 💡 *The video is stored directly in the repository and can be downloaded or previewed.*
 
