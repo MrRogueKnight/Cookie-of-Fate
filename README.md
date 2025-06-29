@@ -30,6 +30,33 @@ A delightful Flutter app that reveals a random fortune each time you crack open 
   - `fortunes.dart`: Stores the list of fortune messages
 
 ---
+## 🔮 Preview
+
+Explore how the **Cookie of Fate** app looks and works:
+
+### 📱 Screenshots
+
+| Welcome Screen               | Fortune Revealed                 |
+|-----------------------------|----------------------------------|
+| ![App Preview 1](App_Preview_v1.PNG) | ![App Preview 2](App_Preview_v2.PNG) |
+
+Additional UI variation:
+
+| Clean Fortune Layout        | With Decorative Style            |
+|----------------------------|----------------------------------|
+| ![App Preview 2 v2](App_Preview2_v2.PNG) | ![App Preview 2 v2](App_Preview2_v2.PNG) |
+
+---
+
+### 🎥 Live Demo
+
+Watch the app in action:
+
+[▶️ Watch Demo](https://github.com/MrRogueKnight/Cookie-of-Fate/blob/main/Running%20cookie_of_fate.mp4)
+
+> 💡 *The video is stored directly in the repository and can be downloaded or previewed.*
+
+---
 
 ## 📂 Project Structure
 
